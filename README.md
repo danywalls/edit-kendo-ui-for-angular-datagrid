@@ -14,6 +14,17 @@ This project demonstrates how to implement inline row editing in the Kendo UI fo
 1. `ng serve` 
 2. Click on any row to enter edit mode and save changes.
 
+## Project Summary
+This project demonstrates how to implement inline row editing in the Kendo UI for Angular Data Grid on a simple click event.
+
+## How to Run
+### Installation
+1. `npm install` 
+
+### Running
+1. `ng serve` 
+2. Click on any row to enter edit mode and save changes.
+
 Find the associated article here: https://www.telerik.com/blogs/author/dany-paredes
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/danywalls/edit-kendo-ui-for-angular-datagrid)
